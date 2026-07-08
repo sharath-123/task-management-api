@@ -104,7 +104,7 @@ http://localhost:8080/swagger-ui/index.html
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/task-management-api.git
+git clone https://github.com/sharath-123/task-management-api.git
 ```
 
 ### Navigate to the project
